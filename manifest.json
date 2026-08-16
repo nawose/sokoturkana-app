@@ -1,0 +1,16 @@
+{
+    "name": "SokoTurkana",
+    "short_name": "SokoTurkana",
+    "description": "Turkana's daily marketplace, wallet & connectivity platform.",
+    "start_url": "./index.html",
+    "scope": "./",
+    "id": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#2B211C",
+    "theme_color": "#B85042",
+    "icons": [
+          { "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9Ijk2IiBmaWxsPSIjMkIyMTFDIi8+PGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIyMDAiIGZpbGw9IiNCODUwNDIiLz48dGV4dCB4PSIyNTYiIHk9IjM0NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIyNzAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TPC90ZXh0Pjwvc3ZnPgo=", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any" },
+          { "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9Ijk2IiBmaWxsPSIjMkIyMTFDIi8+PGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSIyMDAiIGZpbGw9IiNCODUwNDIiLz48dGV4dCB4PSIyNTYiIHk9IjM0NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsICdUaW1lcyBOZXcgUm9tYW4nLCBzZXJpZiIgZm9udC1zaXplPSIyNzAiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5TPC90ZXh0Pjwvc3ZnPgo=", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+    ]
+}
